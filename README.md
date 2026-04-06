@@ -7,7 +7,7 @@ React Front End Developer
 Front-end focused developer, previously a personal trainer
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [https://portfolio-webpage-jade-eight.vercel.app/](http://(s)://portfolio-webpage-jade-eight.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-webpage-jade-eight.vercel.app/](http(s)://portfolio-webpage-jade-eight.vercel.app/)
 * ✉️  You can contact me at [maria.sui51@gmail.com](mailto:maria.sui51@gmail.com)
 * 🧠  I'm currently learning NextJS testing
 * 👥  I'm looking to collaborate on volunteering and open-source
